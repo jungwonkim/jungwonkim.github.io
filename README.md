@@ -1,3 +1,3 @@
-# jungwonkim.github.io
+# Jungwon Kim
 
 Hello world.
