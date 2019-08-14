@@ -1,3 +1,0 @@
-# Jungwon Kim
-
-Hello world.
